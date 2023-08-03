@@ -10,7 +10,7 @@
 ## Обучающие проекты:
 |Название   	|Сфера   	|Основные этапы   	|Стек   	|
 |---	|---	|---	|---	|
-|[Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов](https://github.com/BlackAkcel/Yandex.Praktikum/blob/main/Yandex.Music/yandex_music.ipynb)   	|Интернет-сервисы, Стриминговый сервис   	|Предобработка данных; Исследовательский анализ данных   	|`Python`, `Pandas`   	|
+|[Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов](https://github.com/BlackAkcel/Yandex.Praktikum/tree/main/Yandex.Music)   	|Интернет-сервисы, Стриминговый сервис   	|Предобработка данных; Исследовательский анализ данных   	|`Python`, `Pandas`   	|
 |[Исследование надёжности заёмщиков — анализ банковских данных](https://github.com/BlackAkcel/Yandex.Praktikum/blob/main/Analysis%20of%20bank%20data/bank.ipynb)   	|Банковская сфера, Кредитования  	|Предобработка данных; исследовательский анализ данных   	|`Python`, `Pandas`   	|
 |[Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/BlackAkcel/Yandex.Praktikum/blob/main/Real%20estate%20market%20analysis/apartments.ipynb) |Недвижимость, Площадки объявлений, Интернет-Сервисы |Предобработка данных; исследовательский анализ данных; Визуализация данных; Поиск корреляций; |`Python`, `Pandas`, `Matplotlib`, `Seaborn` |
 |[Определение выгодного тарифа для телеком компании](https://github.com/BlackAkcel/Yandex.Praktikum/blob/main/Stat/stat.ipynb)   	|Телеком   	|Предобработка данных; объединение таблиц; расчет показателей; Статистический анализ данных   	|`Python`, `Pandas`, `NumPy`, `Matplotlib`, `SciPy`   	|
