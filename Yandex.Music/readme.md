@@ -1,4 +1,4 @@
-# (Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов)[https://github.com/BlackAkcel/Yandex.Praktikum/blob/main/Yandex.Music/yandex_music.ipynb]
+# [Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов](https://github.com/BlackAkcel/Yandex.Praktikum/blob/main/Yandex.Music/yandex_music.ipynb)
 ## Сферы деятельности
 Интернет-сервисы, Стриминговый сервис.
 ## Направления деятельности
