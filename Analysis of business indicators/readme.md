@@ -1,4 +1,4 @@
-# Анализ убытков приложения ProcrastinatePRO+
+# [Анализ убытков приложения ProcrastinatePRO+](https://github.com/BlackAkcel/Yandex.Praktikum/blob/main/Analysis%20of%20business%20indicators/analiz.ipynb)
 ## Сферы деятельности
 Интернет-сервисы, Стартапы
 ## Направления деятельности
