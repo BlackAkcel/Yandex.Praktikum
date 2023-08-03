@@ -1,4 +1,4 @@
-# Проект по SQL
+# [Проект по SQL](https://github.com/BlackAkcel/Yandex.Praktikum/blob/main/Final/Final_3/sql.ipynb)
 ## Сферы деятельности
 Онлайн-Сервисы, Маркет-плейс
 ## Направления деятельности
